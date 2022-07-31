@@ -9,7 +9,7 @@ Implementation of various algorithms and benchmarks, the structure of the given 
 4. Shortest Path Problem (incomplete)
     - Topological Sorting
     - Pulling Algorithm
-    - Dijkstra
+    - Dijkstra (incomplete)
 5. Construction Heuristics for the Traveling Salesman Problem
     - Nearest Neighbour Heuristic
     - Savings Heuristic
