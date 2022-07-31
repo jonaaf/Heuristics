@@ -9,12 +9,12 @@ Implementation of various algorithms and benchmarks, the structure of the given 
 4. Shortest Path Problem (incomplete)
     - Topological Sorting
     - Pulling Algorithm
-        Dijkstra
-    Construction Heuristics for the Traveling Salesman Problem
-        Nearest Neighbour Heuristic
-        Savings Heuristic
-        Christofides Heuristic
-        Heuristic Performance Comparison
-    Improvement Heuristics
-        Local Search: Two opt Operator
-        A simple Genetic Algorithm
+    - Dijkstra
+5. Construction Heuristics for the Traveling Salesman Problem
+    - Nearest Neighbour Heuristic
+    - Savings Heuristic
+    - Christofides Heuristic
+    - Heuristic Performance Comparison
+6. Improvement Heuristics
+    - Local Search: Two opt Operator
+    - A simple Genetic Algorithm
