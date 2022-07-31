@@ -5,10 +5,10 @@ Implementation of various algorithms and benchmarks, the structure of the given 
 1. Motivation
 2. Generalities
 3. Minimum Spanning Tree Problem
-  - Kruskal's Algorithm
-    Shortest Path Problem (incomplete)
-        Topological Sorting
-        Pulling Algorithm
+    - Kruskal's Algorithm
+4. Shortest Path Problem (incomplete)
+    - Topological Sorting
+    - Pulling Algorithm
         Dijkstra
     Construction Heuristics for the Traveling Salesman Problem
         Nearest Neighbour Heuristic
